@@ -6,3 +6,4 @@
 ##Periferiche
 [Tastiere](periferiche/tastiere.md)
 [mouse](periferiche/mouse.md)
+Masi il feroce
